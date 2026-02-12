@@ -1,0 +1,10 @@
+{
+    "domain": "drakkiosauro",
+    "owner": {
+        "username": "Drakkiosauro",
+        "email": "drakkiosauros@hotmail.com"
+    },
+    "records": {
+        "CNAME": "unlamentable-imperforate-brooke.ngrok-free.dev"
+    }
+}
